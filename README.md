@@ -11,4 +11,4 @@ The following are contained within the PythonChallenge folder
 * [Python Election Analysis Script](PythonChallenge/PyPoll/main.py)
 * [Election Analysis Script for Jupyter Notebook](PythonChallenge/PyPoll/Main.ipynb)
 * [Election Results as Text File](PythonChallenge/PyPoll/analysis/Analysis.txt)
-* [Election Data Used (COULD NOT BE UPLOADED DUE TO SIZE)](PythonChallenge/PyPoll/Resources/election_data.csv)
+* [Election Data Used](PythonChallenge/PyPoll/Resources/election_data.csv)
